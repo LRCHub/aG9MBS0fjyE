@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Daydream Believer",
+  "base_artist": "The Monkees",
+  "createdAt": "2026-02-19T05:26:50.733196Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Daydream Believer",
+      "artist": "The Monkees",
+      "has_synced": false,
+      "path": "select/01_Daydream_Believer_The_Monkees.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Daydream Believer",
+      "artist": "Anne Murray",
+      "has_synced": false,
+      "path": "select/02_Daydream_Believer_Anne_Murray.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Daydream Believer",
+      "artist": "The Monkees",
+      "has_synced": true,
+      "path": "select/03_Daydream_Believer_The_Monkees.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Daydream Believer",
+      "artist": "Susan Boyle",
+      "has_synced": true,
+      "path": "select/04_Daydream_Believer_Susan_Boyle.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Daydream Believer",
+      "artist": "Susan Boyle",
+      "has_synced": false,
+      "path": "select/05_Daydream_Believer_Susan_Boyle.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Daydream Believer",
+      "artist": "LoBo",
+      "has_synced": false,
+      "path": "select/06_Daydream_Believer_LoBo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Daydream Believer",
+      "artist": "Anne Murray",
+      "has_synced": true,
+      "path": "select/07_Daydream_Believer_Anne_Murray.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Daydream Believer",
+      "artist": "Monkees, The",
+      "has_synced": false,
+      "path": "select/08_Daydream_Believer_Monkees,_The.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Daydream Believer",
+      "artist": "Jive Bunny & The Mastermixers",
+      "has_synced": false,
+      "path": "select/09_Daydream_Believer_Jive_Bunny_&_The_Mastermixers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Daydream Believer",
+      "artist": "The Monkees",
+      "has_synced": false,
+      "path": "select/pl_01_Daydream_Believer_The_Monkees.txt"
+    }
+  ]
+}
