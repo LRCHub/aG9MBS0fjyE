@@ -1,0 +1,36 @@
+# The Monkees – Daydream Believer
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Oh I could hide 'neath the wings of the blue bird as she sings
+The six o'clock alarm would never ring
+But it rings and we rise wipe the sleep out of our eyes
+The shaving razor's cold and it stings
+
+Cheer up sleepy Jean
+Oh what can it mean
+To a daydream believer
+And a homecoming queen
+
+I once thought of you as a white knight on a steed
+Now you know how happy we can be
+Oh, and our good times started then
+With a dollar one to spend
+But how much baby do we really need?
+
+Cheer up sleepy Jean
+Oh what can it mean
+To a daydream believer
+And a homecoming queen
+
+Cheer up sleepy Jean
+Oh what can it mean
+To a daydream believer
+And a homecoming queen
+
+Cheer up sleepy Jean
+Oh what can it mean
+To a daydream believer
+And a homecoming queen
+```
